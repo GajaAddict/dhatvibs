@@ -83,7 +83,7 @@ function ContactUs() {
             </div>
 
             {/* Google Maps Embed */}
-            <div className="mt-5">
+            {/* <div className="mt-5">
                 <h5>Find Us Here:</h5>
                 <iframe
                     src="https://maps.app.goo.gl/sYB8Eqo7XYDa7RJc6"
@@ -94,7 +94,7 @@ function ContactUs() {
                     allowFullScreen=""
                     loading="lazy"
                 ></iframe>
-            </div>
+            </div> */}
         </div>
     );
 }
